@@ -1,0 +1,4 @@
+# git rm --cache content.txt
+# git comit -am 
+# git rm -r --cached X. && git add . && git commit -am "Remove ignored files"
+content.txt
